@@ -34,3 +34,39 @@ export const projects = [
       link: "#link",
     },
   ];
+
+
+
+  export const skills  = [
+    {
+        subtitle: "JavaScript"
+
+    },
+    {
+        subtitle: "React"
+    },
+    {
+        subtitle: "Next.js"
+    },
+    {
+        subtitle: "Node.js"
+    },
+    {
+        subtitle: "express.js"
+    },
+    {
+        subtitle: "PHP"
+    },
+    {
+        subtitle: "HTML"
+    },
+    {
+        subtitle: "CSS"
+    },
+    {
+        subtitle: "Tailwind"
+    },
+    {
+        subtitle: "Laravel"
+    },
+  ];
